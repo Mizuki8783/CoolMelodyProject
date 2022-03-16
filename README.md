@@ -1,7 +1,4 @@
 
-![Logo](screenshots/logo.jpg)
-
-
 # MiniMozart
 
 Deep learning RNN project that creates a melody one note at a time with Mozart's help.
